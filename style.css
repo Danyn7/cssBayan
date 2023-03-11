@@ -1,0 +1,26 @@
+summary {
+    list-style: none;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    background-color: #ff8c61;
+    border-radius: 0.5rem;
+    
+}
+
+html {
+    background-color: #faa275;
+}
+
+img {
+    width: 50%;
+}
+
+hr {
+    color: #F06C37;
+    background-color: #F06C37;
+    height: 0.01rem;
+    border-color: transparent;
+}
